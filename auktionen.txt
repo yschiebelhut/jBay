@@ -1,0 +1,9 @@
+[Thu Oct 14 15:58:48 CEST 2021] Gebot von Donald Duck für Trunschuhe: 1.0 Euro.
+[Thu Oct 14 15:58:54 CEST 2021] Gebot von Donald Duck für Currywurst: 1.0 Euro.
+[Thu Oct 14 16:00:44 CEST 2021] Gebot von Donald Duck für iPad: 1.0 Euro.
+[Thu Oct 14 16:00:48 CEST 2021] Gebot von Donald Duck für Currywurst: 1.0 Euro.
+[Thu Oct 14 16:00:50 CEST 2021] Gebot von Micky Maus für iPad: 2.0 Euro.
+[Thu Oct 14 16:00:53 CEST 2021] Gebot von Donald Duck für iPad: 3.0 Euro.
+[Thu Oct 14 16:00:57 CEST 2021] Gebot von Micky Maus für Trunschuhe: 1.0 Euro.
+[Thu Oct 14 16:01:00 CEST 2021] Gebot von Micky Maus für Currywurst: 2.0 Euro.
+[Thu Oct 14 16:01:44 CEST 2021] Gebot von Donald Duck für Trunschuhe: 5.0 Euro.
